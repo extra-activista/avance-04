@@ -2,7 +2,13 @@
 Avance contenidos de infografía Extractivismo en Chile
 
 ## Parte 1: Contextualización
-Usaremos el Anuario de la Minería de Chile del SERNAGEOMIN 
+
+Usaremos los siguientes documentos:
+1. [Anuario de la Minería de Chile](https://www.sernageomin.cl/anuario-de-la-mineria-de-chile/) del SERNAGEOMIN
+2. Informe Banco Central 
+3. buscar informe sobre índices de pobreza
+4. informe sobre situación de territorios indígenas (mapa INDH)
+
 ### Definición
 1. Gudynas: Corresponden a un tipo de apropiación de recursos naturales en grandes volúmenes y/o la alta intensidad, donde la mitad o más son exportados como materias primas, sin procesamiento industrial o procesamientos limitados. [(E. Gudynas, 2018)](http://gudynas.com/wp-content/uploads/GudynasExtractivismosConceptoViolenciasFuhem18.pdf)
 2. otra def: 
@@ -16,7 +22,7 @@ Elegimos la industria minera porque está a lo largo de todo chile, es la genera
 
 1. Porcentaje de exportación de minería, comparado con todas las otras industrias (gráfico del banco central) 
 2. Valor monetario de ese porcentaje en USD y en pesos chilenos
-3. y compararlo con el patrimonio económico de Ponce Lerou, Paulman, Fontbona (Grupo Luksic), Álvaro Saieh (CorpGroup) y Sebastián Piñera. 
+3. y compararlo con el patrimonio económico de Ponce Lerou, Paulman, Fontbona (Grupo Luksic), Álvaro Saieh (CorpGroup) y Sebastián Piñera. (acá hay que poner el link de forbes) 
 
 ## Parte 3: Análisis territorial
 
