@@ -23,21 +23,23 @@ acá vamos a hablar de cómo en la constitución de Pinochet se asienta la indus
 Elegimos la industria minera porque está a lo largo de todo chile, es la genera más impacto económico. Esta industria tiene 3 tipos de recursos: minerales metálicos (MM), minerales no metálicos (MNM) y recursos energéticos (RE) (y vamos a poner cuánto se extrae de cada uno en porcentaje).
 
 1. Porcentaje de exportación de minería, comparado con todas las otras industrias (gráfico del banco central) 
-2. Valor monetario de ese porcentaje en USD y en pesos chilenos
-3. y compararlo con el patrimonio económico de Ponce Lerou, Paulman, Fontbona (Grupo Luksic), Álvaro Saieh (CorpGroup) y Sebastián Piñera. (acá hay que poner el link de forbes) 
-#### datos  de la exportacion de chile en el 2019
-![EXPORTACION DE CHILE 2019](https://github.com/extra-activista/avance-04/blob/main/imagenes/EXPORTACION%20DE%20CHILE%202019.PNG )
+2. Valor monetario de ese porcentaje en USD y en pesos chilenos: 
+Exportación del 2019 en minería: El año 2019 la participación de la minería en el PIB alcanzó al 9,4%, lo que equivale a 36.462 millones de dólares (27864260400000, pesos chilenos con el dólar en 764,20) 
+3. y compararlo con el patrimonio económico los más ricos de chile (billonarios): [Forbes](https://www.forbes.com/real-time-billionaires/#26faadc83d78)
+Iris Fontbona (Grupo Luksic): 16,4 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 2.22 veces el patrimonio del Grupo Luksic)
+Julio Ponco Lerou: 3,1 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 11.7 veces el patrimonio de Ponce Lerou, presidente del directorio de SQM, yerno del dictador y más comúnmente conocido por el Caso SQM o Caso Cascada)
+Sebastián Piñera: 2,8 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 13 veces el patrimonio de Sebastián Piñera)
 
 
 ## Parte 3: Análisis territorial
 
 Zonas de chile:
-1. norte: regiones
-2. centro: regiones
-3. sur: regiones
+1. norte: XV, I, II y III
+2. centro: IV, V, RM, VI, VII, XVI, VIII
+3. sur: IX, XIV, X, XI, XII
 
 Variables de análisis: 
-1. georeferenciación de cada empresa minera
+1. georeferenciación de cada empresa minera 
 2. cuánto se produce por regiones (sumar regiones x zona)
 3. índice de probeza
 4. territorio indígena
