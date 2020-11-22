@@ -11,7 +11,9 @@ Usaremos los siguientes documentos:
 
 ### Definición
 1. Gudynas: Corresponden a un tipo de apropiación de recursos naturales en grandes volúmenes y/o la alta intensidad, donde la mitad o más son exportados como materias primas, sin procesamiento industrial o procesamientos limitados. [(E. Gudynas, 2018)](http://gudynas.com/wp-content/uploads/GudynasExtractivismosConceptoViolenciasFuhem18.pdf)
-2. otra def: 
+2.  Lucrecia Wagner:  El extractivismo es definido como la explotación de grandes volúmenes de recursos naturales, que se exportan como commodities y generan economías de enclave (localizadas, como pozos petroleros o minas, o espacialmente extendidas, como el monocultivo de soja o palma). Requiere grandes inversiones de capital intensivas, generalmente de corporaciones transnacionales. Presenta una dinámica de ocupación intensiva del territorio, generando el desplazamiento de otras formas de producción (economías locales/regionales) con impactos negativos para el ambiente y las formas de vida de poblaciones locales.
+[  EXTRACTIVISMO  AMERICA LATINA]_ (https://www.teseopress.com/diccionarioagro/chapter/extractivismo/)
+
 
 ### Perspectiva Histórica: 
 acá vamos a hablar de cómo en la constitución de Pinochet se asienta la industria extractivista, cómo se les facilitó el camino, ESPECIALMENTE a la Industria Minera. 
