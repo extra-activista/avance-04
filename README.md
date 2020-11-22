@@ -26,9 +26,9 @@ Elegimos la industria minera porque está a lo largo de todo chile, es la genera
 2. Valor monetario de ese porcentaje en USD y en pesos chilenos: 
 Exportación del 2019 en minería: El año 2019 la participación de la minería en el PIB alcanzó al 9,4%, lo que equivale a 36.462 millones de dólares (27864260400000, pesos chilenos con el dólar en 764,20) 
 3. y compararlo con el patrimonio económico los más ricos de chile (billonarios): [Forbes](https://www.forbes.com/real-time-billionaires/#26faadc83d78)
-Iris Fontbona (Grupo Luksic): 16,4 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 2.22 veces el patrimonio del Grupo Luksic)
-Julio Ponco Lerou: 3,1 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 11.7 veces el patrimonio de Ponce Lerou, presidente del directorio de SQM, yerno del dictador y más comúnmente conocido por el Caso SQM o Caso Cascada)
-Sebastián Piñera: 2,8 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 13 veces el patrimonio de Sebastián Piñera)
+* Iris Fontbona (Grupo Luksic): 16,4 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 2.22 veces el patrimonio del Grupo Luksic)
+* Julio Ponco Lerou: 3,1 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 11.7 veces el patrimonio de Ponce Lerou, presidente del directorio de SQM, yerno del dictador y más comúnmente conocido por el Caso SQM o Caso Cascada)
+* Sebastián Piñera: 2,8 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 13 veces el patrimonio de Sebastián Piñera)
 
 
 ## Parte 3: Análisis territorial
