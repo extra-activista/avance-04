@@ -34,6 +34,7 @@ Exportación del 2019 en minería: El año 2019 la participación de la minería
 * Julio Ponco Lerou: 3,1 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 11.7 veces el patrimonio de Ponce Lerou, presidente del directorio de SQM, yerno del dictador y más comúnmente conocido por el Caso SQM o Caso Cascada)
 * Sebastián Piñera: 2,8 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 13 veces el patrimonio de Sebastián Piñera)
 
+ESTO NI SIQUIER ESTÁ EN PESOS CHILENOSSS
 
 ## Parte 3: Análisis territorial
 
