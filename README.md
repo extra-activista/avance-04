@@ -25,6 +25,8 @@ Elegimos la industria minera porque está a lo largo de todo chile, es la genera
 1. Porcentaje de exportación de minería, comparado con todas las otras industrias (gráfico del banco central) 
 2. Valor monetario de ese porcentaje en USD y en pesos chilenos
 3. y compararlo con el patrimonio económico de Ponce Lerou, Paulman, Fontbona (Grupo Luksic), Álvaro Saieh (CorpGroup) y Sebastián Piñera. (acá hay que poner el link de forbes) 
+#### datos  de la exportacion de chile en el 2019
+[EXPORTACION DE CHILE 2019]_ https://github.com/extra-activista/avance-04/blob/main/imagenes/EXPORTACION%20DE%20CHILE%202019.PNG
 
 ## Parte 3: Análisis territorial
 
