@@ -23,6 +23,10 @@ acá vamos a hablar de cómo en la constitución de Pinochet se asienta la indus
 Elegimos la industria minera porque está a lo largo de todo chile, es la genera más impacto económico. Esta industria tiene 3 tipos de recursos: minerales metálicos (MM), minerales no metálicos (MNM) y recursos energéticos (RE) (y vamos a poner cuánto se extrae de cada uno en porcentaje).
 
 1. Porcentaje de exportación de minería, comparado con todas las otras industrias (gráfico del banco central) 
+
+### INDICADORES DE  COMERCIO EXTERIOR  2019
+![EXPORTACION DE CHILE 2019](https://github.com/extra-activista/avance-04/blob/main/imagenes/EXPORTACION%20DE%20CHILE%202019.PNG )
+
 2. Valor monetario de ese porcentaje en USD y en pesos chilenos: 
 Exportación del 2019 en minería: El año 2019 la participación de la minería en el PIB alcanzó al 9,4%, lo que equivale a 36.462 millones de dólares (27864260400000, pesos chilenos con el dólar en 764,20) 
 3. y compararlo con el patrimonio económico los más ricos de chile (billonarios): [Forbes](https://www.forbes.com/real-time-billionaires/#26faadc83d78)
