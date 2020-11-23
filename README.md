@@ -52,9 +52,8 @@ Variables de análisis:
 
 [Índice de pobreza] 
 
-imagenes/Porcentaje de personas en situación de pobreza multidimensional .png
 - El índice de pobreza multidimensional, se refiere a la pobreza en cuanto a carencias de nivel de los hogares y personas en términos de salus, educación y el nivel de vida 
-https://github.com/extra-activista/avance-04/commit/aea0932ddb5a87c8ccb9fe0fea2956600d867c8a 
+(https://github.com/extra-activista/avance-04/commit/aea0932ddb5a87c8ccb9fe0fea2956600d867c8a)
 
 Cada variable se aplicará a las zonas de chile, de tal manera que se pueda analizar por zona el impacto de la industria
 
