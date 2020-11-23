@@ -22,7 +22,7 @@ acá vamos a hablar de cómo en la constitución de Pinochet se asienta la indus
 ### introducción breve
 Elegimos la industria minera porque está a lo largo de todo chile, es la genera más impacto económico. Esta industria tiene 3 tipos de recursos: minerales metálicos (MM), minerales no metálicos (MNM) y recursos energéticos (RE) (y vamos a poner cuánto se extrae de cada uno en porcentaje).
 
-1. Porcentaje de exportación de minería, comparado con todas las otras industrias [gráfico del banco central, página 6](https://si3.bcentral.cl/estadisticas/Principal1/Informes/SE/COMEX/ice2019T4.pdf)
+1. Porcentaje de exportación de minería, comparado con todas las otras industrias (gráfico del banco central) 
 
 ### INDICADORES DE  COMERCIO EXTERIOR  2019
 ![EXPORTACION DE CHILE 2019](https://github.com/extra-activista/avance-04/blob/main/imagenes/EXPORTACION%20DE%20CHILE%202019.PNG )
@@ -50,11 +50,10 @@ Variables de análisis:
 4. territorio indígena
 5. * zonas en resistencia
 
-[Índice de pobreza] 
-
-- El índice de pobreza multidimensional, se refiere a la pobreza en cuanto a carencias de nivel de los hogares y personas en términos de salus, educación y el nivel de vida 
-(https://github.com/extra-activista/avance-04/commit/aea0932ddb5a87c8ccb9fe0fea2956600d867c8a)
-
+#Índice de pobreza
+! [Porcentaje de personas en situación de pobreza multidimensional]_ (https://github.com/extra-activista/avance-04/blob/main/imagenes/Porcentaje%20de%20personas%20en%20situacio%CC%81n%20de%20pobreza%20multidimensional%20.png)
+1. El índice de pobreza multidimensional, se refiere a la pobreza en cuanto a carencias de nivel de los hogares y personas en términos de salus, educación y el nivel de vida 
+2. Pobreza por ingresos comparada con pobreza multidimensional
 Cada variable se aplicará a las zonas de chile, de tal manera que se pueda analizar por zona el impacto de la industria
 
 ## Parte 4: con miras a una nueva constitución
