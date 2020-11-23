@@ -51,8 +51,9 @@ Variables de análisis:
 5. * zonas en resistencia
 
 #Índice de pobreza
-! [Porcentaje de personas en situación de pobreza multidimensional]_ (https://github.com/extra-activista/avance-04/blob/main/imagenes/Porcentaje%20de%20personas%20en%20situacio%CC%81n%20de%20pobreza%20multidimensional%20.png)
-1. El índice de pobreza multidimensional, se refiere a la pobreza en cuanto a carencias de nivel de los hogares y personas en términos de salus, educación y el nivel de vida 
+! [Porcentaje de personas en situación de pobreza multidimensional]_(https://github.com/extra-activista/avance-04/blob/main/imagenes/Porcentaje%20de%20personas%20en%20situacio%CC%81n%20de%20pobreza%20multidimensional%20.png)
+1. El índice de pobreza multidimensional, se refiere a la pobreza en cuanto a carencias de nivel de los hogares y personas en términos de salus, educación y el nivel de vida
+! [Porcentaje de personas en situación de pobreza por ingresos_casen 2015]_(https://github.com/extra-activista/avance-04/blob/main/imagenes/Porcentaje%20de%20personas%20en%20situacio%CC%81n%20de%20pobreza%20por%20ingresos_casen%202015.png)
 2. Pobreza por ingresos comparada con pobreza multidimensional
 Cada variable se aplicará a las zonas de chile, de tal manera que se pueda analizar por zona el impacto de la industria
 
