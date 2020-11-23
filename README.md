@@ -5,9 +5,9 @@ Avance contenidos de infografía Extractivismo en Chile
 
 Usaremos los siguientes documentos:
 1. [Anuario de la Minería de Chile](https://www.sernageomin.cl/anuario-de-la-mineria-de-chile/) del SERNAGEOMIN
-2. Informe Banco Central 
-3. buscar informe sobre índices de pobreza
-4. informe sobre situación de territorios indígenas (mapa INDH)
+2. [Informe Banco Central](https://si3.bcentral.cl/estadisticas/Principal1/Informes/SE/COMEX/ice2019T4.pdf) 
+3. [buscar informe sobre índices de pobreza](http://www.desarrollosocialyfamilia.gob.cl/storage/docs/Informe_de_Desarrollo_Social_2019.pdf)
+4. [informe sobre situación de territorios indígenas](https://www.mop.cl/asuntosindigenas/Paginas/Mapas.aspx)
 
 ### Definición
 1. Gudynas: Corresponden a un tipo de apropiación de recursos naturales en grandes volúmenes y/o la alta intensidad, donde la mitad o más son exportados como materias primas, sin procesamiento industrial o procesamientos limitados. [(E. Gudynas, 2018)](http://gudynas.com/wp-content/uploads/GudynasExtractivismosConceptoViolenciasFuhem18.pdf)
@@ -30,12 +30,12 @@ Elegimos la industria minera porque está a lo largo de todo chile, es la genera
 ![EXPORTACION DE CHILE 2019](https://github.com/extra-activista/avance-04/blob/main/imagenes/EXPORTACION%20DE%20CHILE%202019.PNG )
 
 2. Valor monetario de ese porcentaje en USD y en pesos chilenos: 
-Exportación del 2019 en minería: El año 2019 la participación de la minería en el PIB alcanzó al 9,4%, lo que equivale a 36.462 millones de dólares (27864260400000, pesos chilenos con el dólar en 764,20) 
+Exportación del 2019 en minería: El año 2019 la participación de la minería en el PIB alcanzó al 9,4%, lo que equivale a 38.084 millones de dólares (27864260400000, pesos chilenos con el dólar en 764,20) 
 3. y compararlo con el patrimonio económico los más ricos de chile (billonarios): [Forbes](https://www.forbes.com/real-time-billionaires/#26faadc83d78)
 * Iris Fontbona (Grupo Luksic): 16,4 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 2.22 veces el patrimonio del Grupo Luksic)
 * Julio Ponco Lerou: 3,1 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 11.7 veces el patrimonio de Ponce Lerou, presidente del directorio de SQM, yerno del dictador y más comúnmente conocido por el Caso SQM o Caso Cascada)
 * Sebastián Piñera: 2,8 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 13 veces el patrimonio de Sebastián Piñera)
-4. 36.462 millones de dólares equivalen a 27864260400000, pesos chilenos con el dólar en 764,20: esto equivale a XXX sueldos mínimos en Chile (301.000 bruto)
+4. 38.084 millones de dólares equivalen a 28.891.511.666.000 pesos chilenos con el dólar a 758,62: esto equivale a 95.985.088,5 sueldos mínimos de Chile (301.000 bruto)
 
 ## Parte 3: Análisis territorial
 
