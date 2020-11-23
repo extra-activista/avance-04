@@ -51,7 +51,8 @@ Variables de análisis:
 5. * zonas en resistencia
 
 [Índice de pobreza] 
-https://github.com/extra-activista/avance-04/blob/main/imagenes/Porcentaje%20de%20personas%20en%20situacio%CC%81n%20de%20pobreza%20multidimensional%20.png
+
+imagenes/Porcentaje de personas en situación de pobreza multidimensional .png
 - El índice de pobreza multidimensional, se refiere a la pobreza en cuanto a carencias de nivel de los hogares y personas en términos de salus, educación y el nivel de vida 
 https://github.com/extra-activista/avance-04/commit/aea0932ddb5a87c8ccb9fe0fea2956600d867c8a 
 
