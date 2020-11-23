@@ -35,8 +35,7 @@ Exportación del 2019 en minería: El año 2019 la participación de la minería
 * Iris Fontbona (Grupo Luksic): 16,4 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 2.22 veces el patrimonio del Grupo Luksic)
 * Julio Ponco Lerou: 3,1 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 11.7 veces el patrimonio de Ponce Lerou, presidente del directorio de SQM, yerno del dictador y más comúnmente conocido por el Caso SQM o Caso Cascada)
 * Sebastián Piñera: 2,8 miles de millones de USD (36.462 millones de dólares en exportaciones de la industriaminera equivale a 13 veces el patrimonio de Sebastián Piñera)
-
-ESTO NI SIQUIER ESTÁ EN PESOS CHILENOSSS
+4. 36.462 millones de dólares equivalen a 27864260400000, pesos chilenos con el dólar en 764,20: esto equivale a XXX sueldos mínimos en Chile (301.000 bruto)
 
 ## Parte 3: Análisis territorial
 
