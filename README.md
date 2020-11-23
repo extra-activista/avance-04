@@ -22,7 +22,7 @@ acá vamos a hablar de cómo en la constitución de Pinochet se asienta la indus
 ### introducción breve
 Elegimos la industria minera porque está a lo largo de todo chile, es la genera más impacto económico. Esta industria tiene 3 tipos de recursos: minerales metálicos (MM), minerales no metálicos (MNM) y recursos energéticos (RE) (y vamos a poner cuánto se extrae de cada uno en porcentaje).
 
-1. Porcentaje de exportación de minería, comparado con todas las otras industrias (gráfico del banco central) 
+1. Porcentaje de exportación de minería, comparado con todas las otras industrias [gráfico del banco central, página 6](https://si3.bcentral.cl/estadisticas/Principal1/Informes/SE/COMEX/ice2019T4.pdf)
 
 ### INDICADORES DE  COMERCIO EXTERIOR  2019
 ![EXPORTACION DE CHILE 2019](https://github.com/extra-activista/avance-04/blob/main/imagenes/EXPORTACION%20DE%20CHILE%202019.PNG )
