@@ -50,6 +50,11 @@ Variables de análisis:
 4. territorio indígena
 5. * zonas en resistencia
 
+[Índice de pobreza] 
+https://github.com/extra-activista/avance-04/blob/main/imagenes/Porcentaje%20de%20personas%20en%20situacio%CC%81n%20de%20pobreza%20multidimensional%20.png
+- El índice de pobreza multidimensional, se refiere a la pobreza en cuanto a carencias de nivel de los hogares y personas en términos de salus, educación y el nivel de vida 
+https://github.com/extra-activista/avance-04/commit/aea0932ddb5a87c8ccb9fe0fea2956600d867c8a 
+
 Cada variable se aplicará a las zonas de chile, de tal manera que se pueda analizar por zona el impacto de la industria
 
 ## Parte 4: con miras a una nueva constitución
