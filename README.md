@@ -65,4 +65,5 @@ Variables de análisis:
 Cada variable se aplicará a las zonas de chile, de tal manera que se pueda analizar por zona el impacto de la industria
 
 ## Parte 4: con miras a una nueva constitución
-#
+1. identificar artículos de la constitución que sostienen la industria minera
+2. Análisis y preguntas abiertas
